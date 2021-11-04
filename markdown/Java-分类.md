@@ -42,5 +42,26 @@
 * 核心线程回收
 * 线程池里的 arrayblockingqueue 与 linkedblockingqueue 的使用场景和区别
 
+### spring 和springboot
+* springboot 自动配置
+* spring 源码
+* springboot 源码
+* bean 的生命周期
+* 
 
+### jvm分区 和 gc
+* jvm分区
+  * 程序计数器
+  * 虚拟机栈
+  * 本地方法栈
+  * 方法区
+  * 堆
+  * 线程私有的：程序计数器、虚拟机栈、本地方法栈
+  * 线程共享的：堆、方法区、直接内存
+
+* Java 中垃圾回收机制中如何判断对象需要回收？常见的 GC 回收算法有哪些？
+  * 程序计数法
+  * 可达性分析法
+  
+  
 
