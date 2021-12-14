@@ -12,6 +12,7 @@
 * 如何解决数据库和缓存数据不一致情况。
 * redis分布式锁
 * redis集群部署，（三个集群部署方式，主从、哨兵、Cluster模式）
+* redis 五个数据类型：string、list、hash、set、sore set
 * redis 数据结构 简单动态字符串（sds）、双链表、字典、跳表。
 * 各种数据结构应用场景
 
